@@ -1,0 +1,31 @@
+/* primary-color: #FF4181 */
+
+.navbrand-x{
+  color: #FF4181;
+}
+.padding-0{
+  padding:0px !important;
+}
+.padding-7{
+  padding-left:7px !important;
+  padding-right:7px !important;
+}
+.see-more-button{
+  background: #FF4181 !important;
+  color: #fff !important;
+}
+
+.the-first-col-element{
+  postion:relative;
+}
+#btn-eye,
+#btn-hide-eye
+{
+  background:transparent;
+  color:#444;
+  border:0px solid red;
+  position:absolute;
+  right:16px;
+  top:32px;
+  z-index:990;
+}

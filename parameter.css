@@ -1,0 +1,449 @@
+
+
+
+
+/* .container{
+    background-color:blue;
+    text-align: center;
+    color:yellow;
+} */
+
+.navbrand-S{
+  color:#FF4181;
+}
+/*.padding{
+
+}*/
+
+.padding-0{
+  padding: 0px !important
+}
+.padding-7{
+  padding-left: 7px;
+  padding-right: 7px;
+}
+.image-section{
+  height:720px;
+  background-image:url("/asset/images/team2.jpg")!important;
+  background-size:cover;
+  background-repeat:no-repeat;
+  background-position:center;
+  background-color:(0,0,0.4);
+  position: relative;
+ 
+}
+
+.image-text{
+  color:#fff;
+  text-align:center;
+  padding-top:250px;
+}
+.background-transparent{
+
+  background:rgba(0,0,0,0.8);
+  height:100%
+}
+
+.circular-icon{
+  height:70px;
+  width:70px;
+  background:#fff;
+  color:#ff4181;
+  font-size:20px; 
+  text-align:center;
+  padding-top:22px;
+  border-radius:50%;
+  position:absolute;
+  left:47%;
+  bottom:-35px;
+  box-shadow:0px 0px 1px 1px grey;
+}
+/*personal information style*/
+
+.personal-info{
+  padding-top:120px;
+  padding-bottom:120px;
+}
+
+.personal-image{
+  border:10px double#f9f9f9;
+  padding: 0px !important;
+
+}
+
+.personal-details p{
+  border-bottom:2px solid #f9f9f9;
+  padding: bottom 12px;
+}
+
+.social-icon div{
+  height:40px;
+  width:40px;
+  background:#fff;
+  color:#FF4181;
+  float:left;
+  margin-right:10px;
+  text-align:center;
+  padding-top:8px;
+  border-radius:50%;
+  box-shadow:0px 0px 2px 1px #ff4181
+}
+
+/* experience section style starts*/
+#experience-section{
+  background:#FF4181;
+  color:#fff;
+  padding-top:120px;
+  padding-bottom:120px;
+}
+
+.each-experience{
+  background:#fff;
+  color:#666;
+  padding-bottom:5px !important;
+  box-shadow:0px 0px 1px 1px
+}
+
+.experience-date p{
+  margin-bottom:0px;
+  padding-top:10px;
+  padding-bottom:10px;
+  font-size:13px;
+}
+
+
+.experience-title p{
+  color:#FF4181;
+  padding-top: 6px;
+  margin-bottom:0px;
+  font-size:14px;
+
+}
+
+.experience-title span{
+  float:right;
+}
+
+.nav-circular-icon{
+  height:70px;
+  width:70px;
+  background: #ffffff;
+  color:#FF4181;
+  font-size:20px;
+  text-align:center;
+  padding-top:22px;
+  border-radius:50px;
+  box-shadow:0px 0px 2px 1px;
+  margin-bottom:20px;
+  margin-left:120px;
+}
+
+.navbar-container{
+  padding-top:50px !important;
+}
+.experience-heading{
+  padding-bottom:50px;
+}
+/*education section starts*/
+#education-section{
+  background:#ffffff;
+  color:#ff4181;
+  padding-top:120px;
+  padding-bottom:120px;
+}
+
+.each-education{
+  background:#fff;
+  color:#666;
+  padding-bottom:5px !important;
+  box-shadow:0px 0px 1px 1px
+}
+
+.education-inner-text{
+  color:#666
+}
+
+.education-date p{
+  margin-bottom:0px;
+  padding-top:10px;
+  padding-bottom:10px;
+  font-size:13px;
+}
+
+
+.education-title p{
+  color:#FF4181;
+  padding-top: 6px;
+  margin-bottom:0px;
+  font-size:14px;
+
+}
+
+.education-title span{
+  float:right;
+}
+
+.nav-circular-icon{
+  height:70px;
+  width:70px;
+  background: #ffffff;
+  color:#666;
+  font-size:20px;
+  text-align:center;
+  padding-top:22px;
+  border-radius:50px;
+  box-shadow:0px 0px 2px 1px;
+  margin-bottom:20px;
+  margin-left:120px;
+}
+
+.navbar-container{
+  padding-top:50px !important;
+}
+.education-heading{
+  padding-bottom:50px;
+  color:black;
+}
+
+
+
+
+
+/*education section style ends*/
+
+
+/* ourteam section style starts*/
+#ourteam-section{
+  background:#FF4181;
+  color:#f1f1f1;
+  padding-top:120px;
+  padding-bottom:120px;
+}
+
+.each-ourteam{
+  background:#fff;
+  color:#666;
+  padding-bottom:5px !important;
+  box-shadow:0px 0px 1px 1px
+}
+
+.ourteam-date p{
+  margin-bottom:0px;
+  padding-top:10px;
+  padding-bottom:10px;
+  font-size:13px;
+}
+
+
+.ourteam-title p{
+  color:#FF4181;
+  padding-top: 6px;
+  margin-bottom:0px;
+  font-size:14px;
+
+}
+
+.ourteam-title span{
+  float:right;
+}
+
+.nav-circular-icon-red{
+  height:70px;
+  width:70px;
+  background:#FF4181;
+  color:#fff;
+  font-size:20px;
+  text-align:center;
+  padding-top:22px;
+  border-radius:50px;
+  box-shadow:0px 0px 2px 1px;
+  margin-bottom:20px;
+  margin-left:120px;
+}
+
+.navbar-container{
+  padding-top:50px !important;
+}
+.education-heading{
+  padding-bottom:50px;
+  
+}
+/*education section style ends*/
+
+/*Portfolio section starts here*/
+
+#portfolio-section{
+  padding-bottom:120px;
+
+}
+
+.portfolio-heading{
+  background:#FF4181;
+  color:#fff;
+  padding-top:120px;
+  padding-bottom:13px;
+}
+
+
+.portfolio-heading h1{
+  margin-bottom:30px;
+}
+
+.portfolio-heading small{
+  padding-bottom:10px;
+ margin-right:12px solid
+}
+
+.portfolio-heading .active{
+  border-bottom:3px solid #fff;
+}
+
+.each-image{
+  padding:3px !important;
+}
+
+.portfolio-image-section{
+  padding-top:40px;
+
+}
+
+.nav-circular-icon-plus{
+  height:70px;
+  width:70px;
+  background: #FF4181;
+  color:#fff;
+  font-size:20px;
+  text-align:center;
+  padding-top:22px;
+  border-radius:50px;
+  box-shadow:0px 0px 2px 1px grey;
+  margin-bottom:20px;
+  margin-top:70px;
+}
+
+/*portfolio section ends*/
+
+/* the review section style*/
+#review-section{
+  padding-top:120px;
+  padding-bottom:120px;
+}
+
+.each-review{
+  padding-top:50px;
+  padding-bottom:50px;
+  box-shadow:0px 0px 2px 1px #f1f1f1;
+  text-align:center;
+  color:#d4d2d2;
+}
+
+.reveiw-icon{
+  font-size:28px;
+}
+
+.review-count{
+  color:#FF4181;
+  font-size:30px;
+  font-weight: 600;
+}
+
+/*Testimonial style*/
+.testimonial-icon{
+  float:right;
+  font-size:30px;
+  color:#d4d2d2;
+}
+
+.each-testimonial{
+  background:#fff;
+  color:#666;
+  padding-top:15px;
+  padding-bottom:15px;
+}
+
+.testimonial-name{
+  color:#FF4181;
+}
+
+.each-testimonial div{
+  margin-bottom:20px;
+}
+
+/*blog section starts*/
+#blog-section{
+  background-color:white;
+}
+
+.blog-heading{
+  padding-top:100px;
+}
+
+
+.blog-icon{
+  float:left !important;
+  color:red;
+
+  
+}
+
+.blog-apple-trademark{
+  float:right;
+}
+
+.blog-text{
+  color:black!important;
+}
+
+.button-text{
+  color:#ff4181;
+  z-index:-1;
+  float:left;
+}
+
+/*contact session starts*/
+
+
+
+.contact-section{
+  height:600px;
+  background-size:cover;
+  background-repeat:no-repeat;
+  background-position:center;
+  background-color:#FF4181!important;
+  position: relative;
+ 
+ 
+}
+
+.contact-text{
+  color:#fff;
+  text-align:center;
+  padding-top:250px;
+}
+.background-transparent{
+
+  background:#FF4181);
+  height:100%
+}
+
+.circular-icon{
+  height:70px;
+  width:70px;
+  background:#f1f1f1;
+  color:#FF4181;
+  font-size:20px; 
+  text-align:center;
+  padding-top:22px;
+  border-radius:50%;
+  position:absolute;
+  left:47%;
+  bottom:-35px;
+  box-shadow:0px 0px 1px 1px grey;
+}
+
+.contacting-section{
+  float:left;
+  background:#FF4181;
+  color:white
+}
+
